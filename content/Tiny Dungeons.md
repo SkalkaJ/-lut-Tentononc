@@ -10,6 +10,7 @@ draft: false
 # Tvorba postavy
 ### Rasa
 Vyber si jednu rasu z [[Seznam Ras]], lze vybrat náhodně hodem 1d8.
+[[Seznam Ras#Trpaslík (Dwarf)|Trpaslík (Dwarf)]]
 
 | Roll | Name                                              | HP  | Feature                                                                                       |
 | :--: | ------------------------------------------------- | :-: | --------------------------------------------------------------------------------------------- |
