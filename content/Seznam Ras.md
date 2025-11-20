@@ -18,3 +18,17 @@ draft: false
 |  6   | Treefolk   |  9  | Treefolk start with the **Ancient Heart Heritage** Trait.                                     |
 |  7   | Karhu      |  7  | Powerful Claws                                                                                |
 |  8   | Lizardfolk |  6  | Cold-Blooded                                                                                  |
+## Human
+## Fey (Elf)
+## Trpaslík (Dwarf)
+![[dwarf_63.webp|200]]
+> [!Quote] Trpaslíci
+> Trpaslíci jsou jako vikingové. Velmi, velmi malí vikingové, kteří žijí v jeskyni.
+- 8 Hit Points
+### Dark Vision
+- You are able to see in total darkness. However, if you are exposed to sudden bursts of light (spells, alchemist’s flash bombs), you suffer Disadvantage on your next turn.
+## Goblin
+## Salimar
+## Treefolk
+## Karhu
+## Lizardfolk
