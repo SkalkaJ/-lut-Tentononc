@@ -1,26 +1,13 @@
 ---
-title: Tiny Dungeons
-description: Základní popis pravidel
+title: Seznam Schopností
+description:
 permalink:
 aliases:
+  - Weapons List
 tags:
   - Tiny_Dungeons
 draft: false
 ---
-# Tvorba postavy
-### Rasa
-Vyber si jednu rasu z [[Seznam Ras]], lze vybrat náhodně hodem 1d8.
-
-![[Seznam Ras]]
-### Traity
-Vyber si 3 traity z [[Seznam Schopností]], lze vybrat náhodně hody 1d100/2
-
-![[Seznam Schopností]]
-### Zbraně
-Vyber si skupinu zbraní, se krerými je postava proficient
-
-![[Seznam Zbraní]]
-
 | Weapon Group | Weapons                                                                     |
 | ------------ | --------------------------------------------------------------------------- |
 | Light Melee  | Dagger, Shortsword, Handaxe, Rapier, Mace, Staff, Club                      |

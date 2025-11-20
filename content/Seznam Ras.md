@@ -17,4 +17,4 @@ draft: false
 |  5   | Salimar    |  5  | Salimar start with one of two Heritage Traits:<br>Pyrothermic Healing or Cryothermic Healing. |
 |  6   | Treefolk   |  9  | Treefolk start with the **Ancient Heart Heritage** Trait.                                     |
 |  7   | Karhu      |  7  | Powerful Claws                                                                                |
-|  8   | Lizardfolk |  6  | Cold-Blooded    
+|  8   | Lizardfolk |  6  | Cold-Blooded                                                                                  |
