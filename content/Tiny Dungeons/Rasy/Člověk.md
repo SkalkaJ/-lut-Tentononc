@@ -5,5 +5,5 @@ permalink:
 aliases:
 tags:
   - Tiny_Dungeons
-draft: true
+draft: false
 ---

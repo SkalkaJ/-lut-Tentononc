@@ -5,7 +5,7 @@ permalink:
 aliases:
 tags:
   - Tiny_Dungeons
-draft: true
+draft: false
 ---
 ![[dwarf_63.webp|200]]
 > [!Quote] Trpaslíci
