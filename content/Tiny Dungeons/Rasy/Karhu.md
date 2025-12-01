@@ -20,7 +20,7 @@ they can), but often can be found using armor.
 Magic among them is exceptionally rare.
 They are roughly the same size as
 mundane bears of the same type.
-![[../Bordel/Pasted image 20251201174317.png]]
+![[../../Bordel/Pasted image 20251201174317.png]]
 - 7 hp
 - Karhu start with the Powerful Claws Heritage Trait.
 - **Powerful Claws:** You have Claw as a Mastered Weapon. You cannot use ranged weapons.

@@ -19,7 +19,7 @@ Lizardfolks are scaled, with a muted assortment of colors (the
 better to lurk and blend into the swamps they call home.) Many
 have a ridge of fins or spikes along their spine, and some webbing
 in their clawed feet and hands.
-![[../Pasted image 20251201174515.png]]
+![[../../Bordel/Pasted image 20251201174515.png]]
 - 6 hp
 - Lizardfolk start with the Cold-Blooded Heritage Trait.
 - Cold-Blooded: Any attempt to persuade, influence, or manipulate a Lizardfolk through appeals to emotion or feelings suffers Disadvantage.

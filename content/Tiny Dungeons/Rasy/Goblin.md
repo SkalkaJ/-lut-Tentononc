@@ -22,7 +22,7 @@ as being thieves. Despite their appearance
 and impish nature, goblins are usually goodnatured
 creatures that enjoy the company of
 anyone who can tolerate them.
-![[../Bordel/Pasted image 20251201173500.png]]
+![[../../Bordel/Pasted image 20251201173500.png]]
 - 4 hp
 - Goblins start with the Heritage Trait Goblin Agility.
-- Goblin Agility: You can Test 1d6 whenever you are successfully hit by an enemy. If your Test is successful, you evade the attack and do not take damage. Declaring Evade as an Action has no additional benefit.
+- **Goblin Agility**: You can Test 1d6 whenever you are successfully hit by an enemy. If your Test is successful, you evade the attack and do not take damage. Declaring Evade as an Action has no additional benefit.

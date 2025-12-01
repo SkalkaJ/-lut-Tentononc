@@ -18,7 +18,7 @@ of their wealth and stature. Their skin is glossy black and smooth
 with patches from their head to their tail that range from snow
 white, to silver, to dark grey.
 On average, Salimar stand roughly 4 and one-half feet tall; they have elongated bodies with somewhat stumpy legs and thick tails. It is widely known that Salimar are not only immune to fire, but are actually healed by it.
-![[../Bordel/Pasted image 20251201173714.png]]
+![[../../Bordel/Pasted image 20251201173714.png]]
 - 5 hp
 - Salimar start with oneof two Heritage Traits: Pyrothermic Healing or Cryothermic Healing.
 - **Pyrothermic Healing:** Any damage that would be dealt to you by a source of natural (nonmagical) fire instead heals you for that amount.
