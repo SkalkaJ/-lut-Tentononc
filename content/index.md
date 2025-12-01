@@ -8,4 +8,4 @@ tags:
   - index
 draft: false
 ---
-# [[Tiny Dungeons]]
+# [[Tiny Dungeons/Tiny Dungeons]]
