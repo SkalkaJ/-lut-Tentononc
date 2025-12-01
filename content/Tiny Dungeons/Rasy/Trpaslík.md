@@ -3,6 +3,7 @@ title: Trpaslík
 description:
 permalink:
 aliases:
+  - Trpaslík
 tags:
   - Tiny_Dungeons
 draft: false
