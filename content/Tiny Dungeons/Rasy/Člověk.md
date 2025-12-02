@@ -15,6 +15,7 @@ Humans are just as varied as the places where you find them. They
 come in all shapes and sizes and temperaments. On average, they
 are between 5 and 6 feet tall, with males tending to be taller than
 females.
+
 ![[../../Bordel/Human.png]]
 - 6 hp
 - Humans select an additional Trait from the Trait List.
