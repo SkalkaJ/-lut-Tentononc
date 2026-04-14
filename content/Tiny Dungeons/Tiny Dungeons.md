@@ -21,8 +21,10 @@ Vyber si jednu rasu z [[Seznam Ras]], lze vybrat náhodně hodem 1d8.
 |  6  | [[Rasy/Enti\|Enti]]             |  9  | [[Schopnosti/Srdce prastarého\|Srdce prastarého]]                                                                               |
 |  7  | [[Rasy/Karhu\|Karhu]]           |  7  | [[Schopnosti/Powerful Claws\|Powerful Claws]]                                                                                   |
 |  8  | [[Rasy/Lizardfolk\|Lizardfolk]] |  6  | [[Schopnosti/Cold-Blooded\|Cold-Blooded]]                                                                                       |
-### Schopnosti
-Vyber si 3 schopnosti z [[Seznam Schopností]], lze (občas je nuceno) vybrat náhodně hody 1d100/2
+
+> [!Talent]
+> Vyber si 3 schopnosti z [[Seznam Schopností]], lze (občas je nuceno) vybrat náhodně hody 1d100/2
+
 ### Zbraně
 Vyber si skupinu zbraní, se krerými je postava proficient ze [[Seznam Zbraní]]
 
